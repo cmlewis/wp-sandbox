@@ -1,4 +1,4 @@
 wp-sandbox
 ==========
 
-Learning WordPress
+Wordpress experiments
